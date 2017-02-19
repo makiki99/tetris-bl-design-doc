@@ -74,3 +74,30 @@ Rank | ARE | Line clear delay | Lock delay | DAS
 70-89 | 4 | 2 | 12 | 6
 90-99 | 4 | 1 | 10 | 6
 100 | 4 | 0 | 8 | 6
+
+## Grade names
+Pre-S grades|S grades|M grades|X Grades|Master Grades
+---|---
+9|S1|M1|X1|Master
+8|S2|M2|X2|MasterS
+7|S3|M3|X3|MasterM
+6|S4|M4|X4|MasterX
+5|S5|M5|X5|Grand Master
+4|S6|M6|X6|
+3|S7|M7|X7|
+2|S8|M8|X8|
+1|S9|M9|X9|
+|S10|||
+|S11|||
+
+#### Max grade obtainable in first loop:
+* S9 without M-roll
+* S10 with M-roll achieved
+* S11 with M-roll passed
+
+#### Master grades requirements
+* Master - 2nd M-roll achieved
+* MasterS - 2nd M-roll cleared
+* MasterM - 2nd M-roll cleared with good performance (unspecified yet)
+* MasterX - True M-roll achieved
+* Grand Master - True M-roll cleared
