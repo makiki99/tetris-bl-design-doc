@@ -5,6 +5,7 @@
 * Framerate: 60FPS
 * Piece previews: 3
 * Hold: yes
+* Mascot: black sheep
 
 ## Level system  
 A loop starts at level 1, and ends at level 999.  
