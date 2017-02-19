@@ -77,7 +77,7 @@ Rank | ARE | Line clear delay | Lock delay | DAS
 
 ## Grade names  
 Pre-S grades|S grades|M grades|X Grades|Master Grades
----|---
+---|---|---|---|---
 9|S1|M1|X1|Master
 8|S2|M2|X2|MasterS
 7|S3|M3|X3|MasterM
