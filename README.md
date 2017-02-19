@@ -87,8 +87,8 @@ Pre-S grades|S grades|M grades|X Grades|Master Grades
 3|S7|M7|X7|
 2|S8|M8|X8|
 1|S9|M9|X9|
-|S10|||
-|S11|||
+ |S10|||
+ |S11|||
 
 #### Max grade obtainable in first loop:
 * S9 without M-roll
