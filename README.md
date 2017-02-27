@@ -31,11 +31,11 @@ Every frame this source is decreased by 0.04%, even during ARE.
 This rank source can't fall below 0%.
 
 #### Survival  
-Every section passed increases value of this rank source by 100%, functioning as an direct rank increase by 1.
+Every section passed increases value of this rank source by 100%, functioning as a direct rank increase by 1.
 
 ## Second loop requirements  
 * Rank 50
-* (to be added later)
+* Grade M9
 
 ## Speedcurve  
 ### First loop  
@@ -71,34 +71,41 @@ Rank | ARE | Line clear delay | Lock delay | DAS
 ### Second loop  
 Rank | ARE | Line clear delay | Lock delay | DAS
 ---|---|---|---|---
-50-69 | 4 | 2 | 15 | 6
-70-89 | 4 | 2 | 12 | 6
-90-99 | 4 | 1 | 10 | 6
-100 | 4 | 0 | 8 | 6
+50-59 | 4 | 2 | 15 | 6
+60-69 | 4 | 2 | 14 | 6
+70-79 | 4 | 2 | 13 | 6
+80-89 | 4 | 2 | 12 | 6
+90-99 | 4 | 2 | 11 | 6
+100 | 4 | 2 | 10 | 6
 
 ## Grade names  
 Pre-S grades|S grades|M grades|X Grades|Master Grades
 ---|---|---|---|---
 9|S1|M1|X1|Master
-8|S2|M2|X2|MasterS
-7|S3|M3|X3|MasterM
-6|S4|M4|X4|MasterX
-5|S5|M5|X5|Grand Master
-4|S6|M6|X6|
-3|S7|M7|X7|
+8|S2|M2|X2|MasterK
+7|S3|M3|X3|MasterV
+6|S4|M4|X4|MasterO
+5|S5|M5|X5|MasterM
+4|S6|M6|X6|MasterX
+3|S7|M7|X7|Grand Master
 2|S8|M8|X8|
 1|S9|M9|X9|
- |S10|||
- |S11|||
 
-#### Max grade obtainable in first loop:
-* S9 without M-roll
-* S10 with M-roll achieved
-* S11 with M-roll passed
+## Grading system
 
-#### Master grades requirements
-* Master - 2nd M-roll achieved
-* MasterS - 2nd M-roll cleared
-* MasterM - 2nd M-roll cleared with good performance (unspecified yet)
-* MasterX - True M-roll achieved
-* Grand Master - True M-roll cleared
+### First loop
+Grade has two sources in first loop of the game.
+#### TAP-style Grade Recognizition system
+(To be written about)
+
+#### 
+
+
+#### Master grades
+* Master - 0 grades in M-roll
+* MasterK - 1 grade in M-roll
+* MasterV - 2 grades in M-roll
+* MasterO - 3 grades in M-roll
+* MasterM - 4 grades in M-roll
+* MasterX - 5 grades in M-roll + clear
+* Grand Master - True M-roll clear
