@@ -94,11 +94,31 @@ Pre-S grades|S grades|M grades|X Grades|Master Grades
 ## Grading system
 
 ### First loop
-Grade has two sources in first loop of the game.
+Grade has three sources in first loop of the game.
+
 #### TAP-style Grade Recognizition system
 (To be written about)
 
-#### 
+#### Rank Points
+You can gain up to 7 grades from advancing the rank as fast as possible.  
+Every time you clear a section, you gain Rank Points equal you your current rank.
+
+Grades boosted | Rank Points
+---|---
++1|20
++2|40
++3|75
++4|125
++5|175
++6|225
++7|300
+
+#### M-roll
+After getting a TAP S9 and 7 grades from Rank Points the grade awarded is M7, which unlocks the 1st M-roll.
+
+
+### Second loop
+
 
 
 #### Master grades
