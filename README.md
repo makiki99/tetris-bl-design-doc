@@ -97,7 +97,7 @@ Pre-S grades|S grades|M grades|X Grades|Master Grades
 Grade has three sources in first loop of the game.
 
 #### TAP-style Grade Recognizition system
-(To be written about)
+(See: TAP and Ti, use fixed combo table)
 
 #### Rank Points
 You can gain up to 7 grades from advancing the rank as fast as possible.  
@@ -122,10 +122,10 @@ After getting a TAP S9 and 7 grades from Rank Points the grade awarded is M7, wh
 
 
 #### Master grades
-* Master - 0 grades in M-roll
-* MasterK - 1 grade in M-roll
-* MasterV - 2 grades in M-roll
-* MasterO - 3 grades in M-roll
-* MasterM - 4 grades in M-roll
-* MasterX - 5 grades in M-roll + clear
-* Grand Master - True M-roll clear
+* Master - 0 grades in 2nd M-roll
+* MasterK - 1 grade in 2nd M-roll
+* MasterV - 2 grades in 2nd M-roll
+* MasterO - 3 grades in 2nd M-roll
+* MasterM - 4 grades in 2nd M-roll
+* MasterX - 5 grades in 2nd M-roll + clear
+* Grand Master - TLB M-roll clear
