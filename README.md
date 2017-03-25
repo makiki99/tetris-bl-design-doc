@@ -12,7 +12,7 @@ A loop starts at level 1, and ends at level 999.
 The rest is the same as in TGM3 Ti.
 
 ## Rank system  
-Rank starts at 0 and will increase from 3 separate rank sources.
+Rank starts at 0 and will increase from 3 separate rank sources.  
 Whenever one of the rank sources reach 100% or more, the rank increases by one, and that rank source value decreases by 100%.  
 The rank caps out at 50 during the first loop, and at 100 during the second loop.
 
@@ -114,11 +114,29 @@ Grades boosted | Rank Points
 +7|300
 
 #### M-roll
-After getting a TAP S9 and 7 grades from Rank Points the grade awarded is M7, which unlocks the 1st M-roll.
-
+After getting a TAP S9 and 7 grades from Rank Points the grade awarded is M7, which unlocks the 1st M-roll.  
+In this M-roll, pieces fade out 5 seconds after locking.
+M-roll ends after about a minute.
+Simply clearing this M-roll grants grade M8.
+To get grade M9 and unlock the 2nd loop you need to clear at least 3 Tetrises.
 
 ### Second loop
+Grading is based on the level and current rank.
 
+Grade | Level | Rank
+---|---|---
+X1|100|55
+X2|200|60
+X3|300|65
+X4|400|70
+X5|500|75
+X6|600|80
+X7|700|85
+X8|800|90
+X9|900|95
+Master|999|100
+
+Reaching level 999 begins 2nd M-roll.
 
 
 #### Master grades
@@ -127,5 +145,5 @@ After getting a TAP S9 and 7 grades from Rank Points the grade awarded is M7, wh
 * MasterV - 2 grades in 2nd M-roll
 * MasterO - 3 grades in 2nd M-roll
 * MasterM - 4 grades in 2nd M-roll
-* MasterX - 5 grades in 2nd M-roll + clear
+* MasterX - 5 grades in 2nd M-roll + clear + rank 100 end
 * Grand Master - TLB M-roll clear
