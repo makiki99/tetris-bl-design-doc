@@ -138,6 +138,20 @@ Master|999|100
 
 Reaching level 999 begins 2nd M-roll.
 
+### 2nd M-roll
+Invisible roll.  
+Uses rank 50 speed.  
+Ends after about 1 minute.  
+Scoring a non-Tetris line clear gives `0.1*lines` of a grade.  
+Scoring a Tetris gives 1 grade.  
+Surviving M-roll gives 1.6 of a grade.  
+Reaching MasterX grade causes TLB M-roll to happen.
+
+### TLB M-roll
+Reverse Invisible.  
+Uses rank 50 speed.  
+Ends after about 1 minute.  
+Surviving it grants GM grade.
 
 #### Master grades
 * Master - 0 grades in 2nd M-roll
